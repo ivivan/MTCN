@@ -6,4 +6,13 @@ Predicting Water Quality Sensor Data](https://www.ivivan.com/papers/ICONIP2019.p
 
 Data set is not included in this repository. Users can test the model on any time series data.
 
+Required packages:
+Tensorflow
+tcn
+sklearn
+numpy
+pandas
+matplotlib
+
+
 
